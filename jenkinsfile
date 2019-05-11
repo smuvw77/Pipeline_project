@@ -10,6 +10,7 @@ pipeline {
             steps {
                 
                 echo 'This is build stage'
+                 echo 'run dev smoke test cases'
                 
             }
             }
